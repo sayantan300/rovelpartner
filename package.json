@@ -2,7 +2,7 @@
   "name": "discord-bot",
   "version": "1.0.0",
   "description": "A partner automation discord bot.",
-  "main": "bot.js",
+  "main": "src/bot.js",
   "scripts": {
     "start": "cd src && node bot.js",
     "lint": "cd src && eslint --fix .",
